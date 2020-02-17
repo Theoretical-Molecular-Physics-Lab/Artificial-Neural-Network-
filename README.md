@@ -1,4 +1,4 @@
-# This folder contains  ....
+# This folder contains the trained artificial neural networks and a code to load them.
 #
 # To execute the trained neural network it is necessary to compile:
 # xx_ANN.f90, fann.F90, NN_XX.dat and dV_XX.dat.
