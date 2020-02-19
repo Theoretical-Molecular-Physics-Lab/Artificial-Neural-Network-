@@ -4,5 +4,6 @@
 # xx_ANN.f90, fann.F90, NN_XX.dat and dV_XX.dat.
 # where XX = O2, N2 or S0
 #
-# For example. System O2:
-# gfortran fann.F90 o2_ANN.f90 -o out.x -lfann -lm
+# However, These codes to run it is Necessary to have your computer installed in the Fast Artificial Neural Network (FANN) Library. For such, the download can be Realized in the page below. There, all instructions to install this library is given in details.
+
+# http://leenissen.dk/fann/wp/
